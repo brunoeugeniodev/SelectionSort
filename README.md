@@ -16,10 +16,10 @@ O código foi implementado em Python.
 Os testes foram feitos em diferentes tamanhos de entrada. Os resultados podem ser observados abaixo:
 
 ### 📌 **Selection Sort**  
-![Execução selectionSort](SelectionSort.png)
+![Execução selectionSort](Imagens/SelectionSort.png)
 
 ### 📌 **Selection Sort Otimizado**  
-![Execução com selectionSortotimizado](SelectionSortOtimizado.png)
+![Execução com selectionSortotimizado](Imagens/SelectionSortOtimizado.png)
 
 
 ## 🔬 Análise dos Resultados
